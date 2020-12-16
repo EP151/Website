@@ -1,0 +1,93 @@
+#header
+{
+  background-color: rgb(17, 230, 230);
+  text-align: center;
+  border: 3px solid blue;
+  margin: -300px -300px 0px -300 px;
+  padding: 5px;
+}
+#nav
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+#nav a
+{
+  text-decoration: none;
+  color: black;
+}
+#nav li
+{
+  list-style-type: none;
+  border: 2px solid blue;
+  border-radius: 30px;
+  padding: 15px;
+  background-color: #2e2be48a;
+}
+#nav li:hover
+{
+  background-color: #b9d9eb;
+}
+#Content
+{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: aliceblue;
+}
+#BasketballContent
+{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: aliceblue
+}
+#BaseballContent
+{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: aliceblue
+}
+#FootballContent
+{
+  border: 1px solid black;
+  padding: 10px;
+  background-color: aliceblue
+}
+#Nationals
+{
+  width:300px;
+  height:300px;
+}
+#JuanSoto
+{
+  width:300px;
+  height:300px;
+  padding-left: 200px;
+}
+#Ravens
+{
+  width:300px;
+  height:300px;
+}
+#Lamar
+{
+  width:300px;
+  height:300px;
+  padding-left: 200px;
+}
+#LeBron
+{
+  width:450px;
+  height:300px;
+  padding-left: 200px;
+}
+#Sports
+{
+  width:300px;
+  height:300px;
+}
+#Sports2
+{
+  width:400px;
+  height:400px;
+  padding-left:100px;
+}
