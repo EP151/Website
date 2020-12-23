@@ -91,3 +91,18 @@
   height:400px;
   padding-left:100px;
 }
+#BaseballLink
+{
+  text-decoration: none;
+  color: black;
+}
+#FootballLink
+{
+  text-decoration: none;
+  color: black;
+}
+#BasketballLink
+{
+  text-decoration: none;
+  color: black;
+}
